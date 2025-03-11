@@ -49,5 +49,4 @@ SQL : MySQL
 BI Dashboards : Power BI
 
 ## Result
-The dashboards provide Ben with valuable insights into his business performance. He can use these insights to make informed decisions about things like pricing, staffing, and inventory management.
 Ben can these dashboards which are provided with valuable insights into his business performace to make informed decisions about things like pricing, staff and inventory management.

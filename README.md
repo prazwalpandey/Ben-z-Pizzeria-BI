@@ -44,9 +44,9 @@ This dashboard monitors staff costs, hours worked, and the cost per staff member
 
 ## Implementation
 
-Data Modeling : QuickDBD
-SQL : MySQL
-BI Dashboards : Power BI
+Data Modeling : QuickDBD  
+SQL : MySQL  
+BI Dashboards : Power BI  
 
 ## Result
 Ben can these dashboards which are provided with valuable insights into his business performace to make informed decisions about things like pricing, staff and inventory management.
